@@ -27,3 +27,9 @@ This application was developed for [Knowledge Streams](https://knowledge.tech/),
 ### ⦿ VBA Automation (Dynamic Path & Data Entry Form) [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/maryamfarooq13/Excel-VBA-Automation) 
 [**_Data Science Internee @Ai Data House_**](https://aidatahouse.com/)
 #### Tools: VBA in Excel
+
+### Get in Touch
+I'm always open to collaborating on interesting projects and discussing innovative ideas. Feel free to reach out to me through the following platforms:
+- [LinkedIn](https://www.linkedin.com/in/maryamfarooq13/)
+- [Email](mailto:maryamfarooq2222@example.com)
+Looking forward to connecting with you!
