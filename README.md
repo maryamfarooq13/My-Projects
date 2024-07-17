@@ -25,5 +25,5 @@ This application was developed for [Knowledge Streams](https://knowledge.tech/),
 #### Tools: Pivot tables, Pivot Charts
 
 ### ⦿ VBA Automation (Dynamic Path & Data Entry Form) [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/maryamfarooq13/Excel-VBA-Automation) 
-[**_Internship project @Ai Data House_**](https://aidatahouse.com/)
+[**_Data Science Internee @Ai Data House_**](https://aidatahouse.com/)
 #### Tools: VBA in Excel
